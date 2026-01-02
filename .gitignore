@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# MacOS
+.DS_Store
+
+# Data & Output
+verified_reasoning_traces.json
+*.pdf
+
+# Streamlit
+.streamlit/
